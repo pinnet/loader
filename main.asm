@@ -13,7 +13,6 @@
   SCREENCOLS    = 40
   SCREENLINES   = 24
   STATUSLINE    = SCREENLINES / 2 + 4
-  MAXFRAMES     = 3
   
   INTCLOCK      = $02                       ; intrupt clock / frame number
   CURH          = $fc                       ; cursor high byte zero page address
